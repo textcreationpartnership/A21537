@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iane, by the grace of God quene of England, Fraunce and Ireland, defendor of the faith, &amp; of the Church of Englande, &amp; also of Irelande under Christ in earth the supreme head to al our most louing, faithfull, and obedient subiects, and to euery of them greting</title>
+            <author>Grey, Jane, Lady, 1537-1554.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21537</idno>
+            <idno type="STC">STC 7846</idno>
+            <idno type="STC">ESTC S3829</idno>
+            <idno type="EEBO-CITATION">33151050</idno>
+            <idno type="OCLC">ocm 33151050</idno>
+            <idno type="VID">28888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iane, by the grace of God quene of England, Fraunce and Ireland, defendor of the faith, &amp; of the Church of Englande, &amp; also of Irelande under Christ in earth the supreme head to al our most louing, faithfull, and obedient subiects, and to euery of them greting</title>
+                  <author>Grey, Jane, Lady, 1537-1554.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Richardi Grafto[n], reg[inæa] typ[o]graphia [excu]sum,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno Domini, M.D.LIII [1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: faded, with loss of text. Bracketed material supplied from STC (2nd ed.).</note>
+                  <note>"Witnesse our selfe at our Towre of London, the tenth day of Julie, in the first yeere of our Reigne."</note>
+                  <note>"Cum priuilegio ad imprimendum solum</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grey, Jane, --  Lady, 1537-1554.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28888:1"/>
+            <p>
+               <seg rend="decorInit">I</seg>Ane by the grace of God Quene of England, Fraunce and Ireland, defendor of the faith, &amp; of the Church of Englande, &amp; alſo of Irelande vnder Chriſt in earth the ſupreme head. To al our moſt louing, faithfull, and obedient ſubiects, and to euery of them greting. Where our moſte dere couſin Edwarde the vi. late King of Englande, Fraunce and Irelande, defendour of the faith, and in earth the ſupreme head vnder Chriſt of the Church of Englande and Irelande, by his letters patentes ſigned with his owne hand, and ſealed with his great ſeale of Englande, bearing date the xxi. day of Iune, in the vii. yere of his reigne, in the preſence of the moſt parte of his nobles, his counſailours<g ref="char:punc">▪</g> Iudges, and diuerſe others graue, and ſage perſonages for the profite and ſuretie of the whole realme therto aſſenting, and ſub<g ref="char:EOLhyphen"/>ſcribing their names to the ſame, hath by the ſame his Lettres Patentes recited, that foraſmuch as the Imperiall croune of this realme, by an Acte made in the xxxv. yere of the reigne of the late King of woorthy memory King Henrie the viii. our progenitour, and great vncle, was for lacke of iſſue of his bodie lawfullie begotten, and for lacke of iſſue of the bodie of our ſaide late coſin King Edwarde the vi. by the ſame act limited, and appointed to remaine to the Ladie Marie, by the name of the la<g ref="char:EOLhyphen"/>die Marie his eldeſt Daughter, and to the Heires of her bodie lawfully begotten, and for de<g ref="char:EOLhyphen"/>fault of ſuch iſſue, the remainder therof to the Ladie Elizabeth, by the name of the Ladie Elizabeth his ſeconde Daughter, and to the heires of her bodie lawefully begotten, with ſuch condicions, as ſhoulde be limited, and appointed by the ſaied late King of woorthie memorie, King Henrie theight our progenitour, and great vncle by his letters patentes vnder his great Seale, or by his laſt wil in writing ſigned with his hande. And foraſmuch as the ſaied limitation of Thimperial croune of this realme, being limited (as is aforeſaied) to the ſaid Ladie Marie, and Ladie Elizabeth being illegiti<g ref="char:EOLhyphen"/>mate, and not lawfully begotten, for that that the mariage had betweene the ſaied late King, King Henrie theight our progenitour, and great vncle, and the Ladie Katherine mother to the ſaied La<g ref="char:EOLhyphen"/>die Marie, &amp; alſo the mariage had betwene the ſaied late king, King Henrie theight our progenitor and great vncle, and the ladie Anne mother to the ſaied ladie Elizabeth, were cleerely, and lawfully vndone by ſentences of deuorces, according to the woorde of God, and the Eccleſiaſticall lawes: And which ſaied ſeueral deuorcements haue beene ſeuerally ratified, &amp; confirmed by auctoritie of parla<g ref="char:EOLhyphen"/>ment, and eſpeciallie in the xxviii. yere of the reigne of King Henrie theight our ſaid progenitor, and great vncle, remaining in force, ſtrength, and effect, wherby aſwel the ſaid Ladie Marie, as alſo the ſaid Ladie Elizabeth, to all ententes, and purpoſes, are, and been cleerely diſabled, to aſke, claime, or chalenge the ſaied Imperiall croune, or any other of the honours, caſtelles, manours, Lordſhippes, lands, tenements, or other hereditaments, as heire, or heires to our ſaid late coſin king Edward the vi. or as heire, or heires to any other perſon, or perſons whoſoeuer, aſwel for the cauſe before rehear<g ref="char:EOLhyphen"/>ſed, as alſo for that that the ſaied Lady Marie, and Lady Elizabeth were vnto our ſaied late coſin but of the halfe bloud, and therefore by the ancient lawes<g ref="char:punc">▪</g> ſtatutes, and cuſtomes of this realme be not inheritable vnto our ſaied late Coſin, although they had beene borne in lawefull Matrimonie, as in dede they were not, as by the ſaied ſentences of deuorce, and the ſaied ſtatute of the xxviii. yere of the reigne of King Henrie the eight our ſaied progenitor and great Vncle, plainly appeareth.</p>
+            <p>And foraſmuch alſo as it is to be thought, or at the leaſt, much to be doubted, that if the ſaied la<g ref="char:EOLhyphen"/>die
+<pb facs="tcp:28888:2"/>
+Marie, or ladie Elizabeth ſhould hereafter haue, &amp; enioy the ſaid Imperial croune of this realm and ſhould then happen to marry with any Stranger borne out of this realme, that then the ſame Stranger hauing the gouernmente and the Imperiall crowne in his handes, would adhere and practiſe, not onely to bring this noble free realme, into the tirannie and ſeruitude of the Biſhoppe of Rome, but alſo to haue the lawes and cuſtomes of his or their own natiue countrey or countreys to be practiſed, and put in vre within this realme, rather then the laws, ſtatutes, and cuſtomes here of long time vſed, wherupon the title of inheritance of all and ſingular the ſubiects of this realme dooe depend, to the peril of conſcience, and the vtter ſubuerſion of the common weale of this realme wherupon our ſaied late dere coſin weighing and conſidering with himſelfe, what waies and mea<g ref="char:EOLhyphen"/>nes were moſt conuenient to be had for the ſtay of the ſaid ſucceſſion in the ſaied Imperiall croune, if it ſhould pleaſe God to call our ſaid late coſin out of this tranſitory life, hauing no iſſue of his bo<g ref="char:EOLhyphen"/>dy, and calling to his remembrance that wee and the Lady Katherine, and the Lady Mary our ſi<g ref="char:EOLhyphen"/>ſters, being the daughters of the lady Fraunces our naturall mother, and then and yet wife to our naturall &amp; moſt louing father Henrie Duke of Suffolke, and the lady Margaret, daughter of the lady Elianour then deceaſſed ſiſter to the ſaid lady Fraunces, and the late wife of our coſin Henrie Erle of Comberland, were very nigh of his graces bloud, of the part of his fathers ſide our ſaid pro<g ref="char:EOLhyphen"/>genitour and great vncle, and being naturally borne here within the realme, and for the very good opinion our ſaid late coſin had of our, and our ſaid ſiſters and coſin Margarets good education, did therefore vpon good deliberation and aduiſe heerein had and taken, by his ſaid Letters Patents de<g ref="char:EOLhyphen"/>clare, ordre, aſſigne, limit, and appoinct, that if it ſhould fortune himſelfe our ſaid late coſin king Ed<g ref="char:EOLhyphen"/>ward the ſixt to deceaſe, hauing no iſſue of his body lawfully begotten, that then the ſaied Impe<g ref="char:EOLunhyphen"/>riall croune of England and Ireland, and the confines of the ſame, and his title to the croune of the realme of France, and all and ſingular honors, caſtles, prerogatiues, priuiledges, preheminences, aucthorities, iuriſdictions, dominions, poſſeſſions, and hereditaments to our ſaid late coſin King Edward the ſixt, or to the ſaid Imperiall croune belonging, or in any wiſe appertaining, ſhould for lacke of ſuch iſſue of his body remain, come, and be vnto the eldeſt ſonne of the body of the ſaid lady Fraunces lawfully begotten, being borne into the world in his life time, and to the heires ma<g ref="char:EOLhyphen"/>les of the body of the ſame eldeſt ſonne lawfully begotten, and ſo from ſonne to ſonne, as he ſhould be of auncienty in birth, of the body of the ſaid lady Fraunces lawfully begotten, being borne into the world in our ſaid late coſins life time, and to the heires males of the body of euery ſuch ſonne lawfully begotten: and for default of ſuch ſonne borne into the world in his life time, of the body of the ſaid lady Fraunces lawfully begotten, and for lack of heires males of euery ſuch ſonne lawfully begotten, that then the ſayd Imperial croune, and all &amp; ſingular other the premiſſes ſhould remain, come, and be to vs, by the name of the lady Iane, eldeſt daughter of the ſaid lady Fraunces, &amp; to the heires males of our body lawfully begotten, and for lacke of ſuch heire male of our body lawfully begotten, that then the ſayd Imperial croune, and all other the premiſſes ſhould remain, come, &amp; be to the ſayd lady Katherine our ſayd ſecond ſiſter, and to the heires males of the body of the ſayd lady Katherine lawfully begotten, with diuerſe other remainders, as by the ſame letters patents more plainly &amp; at large it may and doeth appere. Sithens the making of which letters patents, that is to ſay, on Thurſday, which was the vi. day of this inſtant moneth of Iuly, it hath pleaſed God to cal to his infinite mercy our ſayd moſt dere &amp; entirely beloued coſin Edward the vi. whoſe ſoule God pardon, &amp; foraſmuch as he is now deceaſed, hauing no heires of his body begotten, &amp; that alſo there remaineth at this preſent time no heires lawfully begotten of the body of our ſayd progenitor, and great vncle king Henrie theight, and foraſmuch alſo as the ſayd lady Fraunces our ſayd mother,
+<pb facs="tcp:28888:3"/>
+had no iſſue male begotten of her body, and borne into the worlde, in the life time of our coſin King Edward the ſixth, ſo as the ſaied Imperiall croune, and other the premiſſes to the belon<g ref="char:EOLhyphen"/>ging, or in any wiſe appertayning, now be, and remaine to vs in our actuall, and royall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by auctority of the ſayd letters patents: wee doe therefore by theſe preſent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſignifie vnto all our moſt louing, faithfull, and obedient ſubiects, that like as we for our part ſhall, by Goddes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhew our ſelfe a moſt gracious, and benigne Souuereine Queene, and Lady to all our good Sub<g ref="char:EOLhyphen"/>iects in all their iuſt, and lawfull ſutes, and cauſes, and to the vttermoſt of our power ſhal <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and maintaine Gods moſt holy word, chriſtian policy, and the good laws, cuſtomes, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> theſe our realmes &amp; dominions: So we miſtruſt not, but they, and euery of them wil again for all their partes, at all times, and in all caſes ſhew themſelues vnto vs their naturall liege Queene, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, moſt faythfull, louing, and obedient ſubiects, according to their bounden duties, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whereby they ſhall pleaſe God, and doe the thing that ſhall tend to their own preſeruation, and ſureties: Willing, and commanding all men of all eſtates, degrees, and condicions, to ſee our peace, and accord kept, and to bee obedient to our Lawes, as they tender our fauor, and will anſwere for the contrary, at their extreme perils. In witnes whereof, wee haue cauſed theſe our letters to bee made patents. Witneſſe our ſelfe at our Towre of London, the tenth day of Iulie, in the firſt yeere of our reigne.</p>
+            <closer>God ſaue the Queene.</closer>
+            <closer>
+               <dateline>Londine aedibus <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <date>Anno Domini MDLIII.</date>
+               </dateline> Cum priuilegio ad imprim<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
